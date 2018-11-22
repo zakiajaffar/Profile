@@ -1,0 +1,33 @@
+.styles{
+	text-align: center;
+	}
+
+h1{
+	border-bottom: 1px solid white;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	padding-bottom: 12px;
+	display:inline;
+	}
+
+
+.png{
+	padding-top: 10px;
+	height: 70%;
+	width: 40%;
+}
+.btns{
+	padding-top: 20px;
+	text-align: center;
+
+
+}
+button{ border-radius: 25px;
+	border:none;
+	padding: 10px;
+
+}
+button:hover{
+	cursor: pointer;
+}
